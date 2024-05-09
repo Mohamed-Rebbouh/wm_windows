@@ -1,5 +1,5 @@
+it's lighte windows manager to tailing windows using windows api 
 ## excute:
-
 navigate to the this folder 
 ```
 gcc -c wm.c
